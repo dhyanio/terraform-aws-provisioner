@@ -1,6 +1,6 @@
 provider "aws" {
   region = "ap-south-1"
-  profile = "aditya"
+  profile = "dhyanio"
 }
 
 resource "tls_private_key" "taskkey" {
